@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Cursando ADS/Ceub ... e uns cursos para me desenvolver na área<br>🎯 Goals: Full stack dev<br>🎲 Fun fact: Já fui atleta profissional e campeonal nacional e medalhista sul americano em natação</p>
+<p align="left">📚 Cursando ADS/Ceub ... e uns cursos para me desenvolver na área<br>🎯 Goals: Full stack dev<br>🎲 Fun fact: Já fui atleta profissional e campeão nacional e medalhista sul americano em natação</p>
 
 ###
 
