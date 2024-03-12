@@ -1,4 +1,4 @@
-<h1 align="center">console.log("Hello World")<br>Seja bem-vindo</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=4000&pause=1000&color=7C009A&background=BEFF7F00&center=true&random=false&width=800&lines=console.log(%22Hello+World%22);Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a> </h1>
 
 ###
 
