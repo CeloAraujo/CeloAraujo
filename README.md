@@ -2,7 +2,16 @@
 
 ###
 
-<p align="left">Meu nome é Marcelo Araujo, sou de Brasília</p>
+<p align="left">Meu nome é Marcelo Araujo, sou de Brasília.<br>
+  Ex-atleta da seleção brasileira de natação, trago para a tecnologia
+ determinação, foco e uma mentalidade orientada para metas. Com
+ habilidades, porém em constante evolução em HTML, CSS,
+ JavaScript, React, Node.js e Java (básico) estou preparado para
+ enfrentar desafios e contribuir para projetos de desenvolvimento
+ de software. Além disso,  SQL complementa minha capacidade de
+ lidar com bancos de dados. Estou animado para continuar
+ melhorando e expandindo meu repertório de habilidades e
+ colaborar em projetos inovadores.</p>
 
 ###
 
