@@ -1,70 +1,116 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=4000&pause=1000&color=7C009A&background=BEFF7F00&center=true&random=false&width=800&lines=console.log(%22Hello+World%22);Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a> </h1>
-
-###
-
-<p align="left">Meu nome é Marcelo Araujo, sou de Brasília.<br>
- Desenvolvedor fullstack com experiência no desenvolvimento de aplicações web e APIs, atuando com tecnologias como Python (FastAPI), Java (Spring Boot), Angular, React e React Native.
-
-Ex-atleta da Seleção Brasileira de Natação, trago para o ambiente de desenvolvimento disciplina, foco e consistência na entrega de resultados.
-
-Possuo vivência com SQLAlchemy, bancos PostgreSQL e Oracle, além de atuar com aplicações containerizadas em Docker, versionamento de banco com Flyway e testes unitários e de integração com Pytest e Jest. Também tenho experiência com React e React Native.
-
-Focado em boas práticas, qualidade de código e evolução contínua, contribuindo para a construção de soluções eficientes e escaláveis.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-  🎓 Formado, finalizando pós-graduação em Engenharia de Software e iniciando pós-graduação em Engenharia de Inteligência Artificial pela UNIPDS.
-
-📚 Também sigo realizando cursos complementares para continuar me desenvolvendo na área de tecnologia.
-
-🎯 Goals: Evoluir como desenvolvedor full stack, crescer profissionalmente, subir de cargo e conquistar mais espaço no mercado de tecnologia.
-
-🎲 Fun fact: Já fui atleta profissional de natação, bicampeão nacional, integrante da Seleção Brasileira e medalhista em campeonato sul-americano.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
+<!-- Header animado -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CeloAraujo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CeloAraujo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&hide=jupyter%20notebook" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/celo__araujo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=celo__araujo&count=4&unique=false" alt="Spotify recently played"  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E40C9&background=00000000&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1%2C+eu+sou+Marcelo+Araujo+%F0%9F%91%8B;Desenvolvedor+Fullstack;Ex-atleta+da+Sele%C3%A7%C3%A3o+Brasileira+%F0%9F%8F%8A;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
   </a>
 </div>
 
-###
+<br/>
+
+<!-- Badges de contato -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/marceloaraujodev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marcelo@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/CeloAraujo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
+---
+
+## 👨‍💻 Sobre mim
+
+```python
+class MarceloAraujo:
+    nome     = "Marcelo Araujo"
+    cidade   = "Brasília, DF — Brasil"
+    cargo    = "Desenvolvedor Fullstack"
+    educacao = [
+        ""Graduado em Análise e desenvolvimento de sistemas - UniCeub",
+        "Pós-graduação em Engenharia de Software - UniCeub",
+        "Pós-graduação em Engenharia de IA — UNIPDS"
+    ]
+    esporte  = "🏊 Ex-atleta da Seleção Brasileira de Natação"
+    conquistas = [
+        "Bicampeão Nacional",
+        "Medalhista Sul-Americano"
+    ]
+    objetivo = "Evoluir como dev fullstack e criar soluções de impacto real"
+```
+
+---
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" />
+</div>
+
+### ⚙️ Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,nodejs" />
+</div>
+
+### 🗄️ Banco de Dados & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="48" style="margin-left:6px;vertical-align:middle"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CeloAraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeloAraujo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&hide=jupyter+notebook&cache_seconds=1800" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CeloAraujo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Troféus GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CeloAraujo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🎯 Atualmente
+
+- 🔭 Trabalhando com **FastAPI · Spring Boot · React · React Native**
+- 🌱 Aprofundando conhecimentos em **Inteligência Artificial e Engenharia de Software**
+- 🎓 Cursando **Pós-graduação em IA pela UNIPDS**
+- 💡 Explorando **arquiteturas escaláveis e boas práticas de desenvolvimento**
+- 🏊 Aplico no código a mesma **disciplina e foco** que tive no esporte de alto rendimento
+
+---
+
+## 🎵 Ouvindo no Spotify
+
+<div align="center">
+  <a href="https://open.spotify.com/user/celo__araujo">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=celo__araujo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CeloAraujo&label=Visualizações+do+perfil&color=6E40C9&style=flat" alt="Profile views" />
+  
+  <br/><br/>
+  
+  <i>⚡ "Consistência é o que transforma o esforço médio em resultado extraordinário."</i>
+</div>
