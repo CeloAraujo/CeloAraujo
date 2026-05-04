@@ -3,15 +3,13 @@
 ###
 
 <p align="left">Meu nome é Marcelo Araujo, sou de Brasília.<br>
-  Ex-atleta da seleção brasileira de natação, trago para a tecnologia
- determinação, foco e uma mentalidade orientada para metas. Com
- habilidades, porém em constante evolução em HTML, CSS,
- JavaScript, React, Node.js e Java (básico) estou preparado para
- enfrentar desafios e contribuir para projetos de desenvolvimento
- de software. Além disso,  SQL complementa minha capacidade de
- lidar com bancos de dados. Estou animado para continuar
- melhorando e expandindo meu repertório de habilidades e
- colaborar em projetos inovadores.</p>
+ Desenvolvedor fullstack com experiência no desenvolvimento de aplicações web e APIs, atuando com tecnologias como Python (FastAPI), Java (Spring Boot), Angular, React e React Native.
+
+Ex-atleta da Seleção Brasileira de Natação, trago para o ambiente de desenvolvimento disciplina, foco e consistência na entrega de resultados.
+
+Possuo vivência com SQLAlchemy, bancos PostgreSQL e Oracle, além de atuar com aplicações containerizadas em Docker, versionamento de banco com Flyway e testes unitários e de integração com Pytest e Jest. Também tenho experiência com React e React Native.
+
+Focado em boas práticas, qualidade de código e evolução contínua, contribuindo para a construção de soluções eficientes e escaláveis.</p>
 
 ###
 
@@ -19,7 +17,14 @@
 
 ###
 
-<p align="left">📚 Cursando ADS/Ceub ... e uns cursos para me desenvolver na área<br>🎯 Goals: Full stack dev<br>🎲 Fun fact: Já fui atleta profissional de natação, onde já fui campeão nacional duas vezes e participei da selação brasileira, conquistando uma medalha em campeonato sul-americano.</p>
+<p align="left">
+  🎓 Formado, finalizando pós-graduação em Engenharia de Software e iniciando pós-graduação em Engenharia de Inteligência Artificial pela UNIPDS.
+
+📚 Também sigo realizando cursos complementares para continuar me desenvolvendo na área de tecnologia.
+
+🎯 Goals: Evoluir como desenvolvedor full stack, crescer profissionalmente, subir de cargo e conquistar mais espaço no mercado de tecnologia.
+
+🎲 Fun fact: Já fui atleta profissional de natação, bicampeão nacional, integrante da Seleção Brasileira e medalhista em campeonato sul-americano.</p>
 
 ###
 
