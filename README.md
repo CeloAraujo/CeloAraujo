@@ -32,7 +32,7 @@ class MarceloAraujo:
     cidade   = "Brasília, DF — Brasil"
     cargo    = "Desenvolvedor Fullstack"
     educacao = [
-        ""Graduado em Análise e desenvolvimento de sistemas - UniCeub",
+        "Graduado em Análise e desenvolvimento de sistemas - UniCeub",
         "Pós-graduação em Engenharia de Software - UniCeub",
         "Pós-graduação em Engenharia de IA — UNIPDS"
     ]
