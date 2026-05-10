@@ -89,9 +89,9 @@ class MarceloAraujo:
 
 ## 🎯 Atualmente
 
-- 🔭 Trabalhando com **FastAPI · Spring Boot · React · React Native**
+- 🔭 Trabalhando com **FastAPI · Spring Boot · Angular · React · React Native**
 - 🌱 Aprofundando conhecimentos em **Inteligência Artificial e Engenharia de Software**
-- 🎓 Cursando **Pós-graduação em IA pela UNIPDS**
+- 🎓 Cursando **Pós-graduação em IA pela UNIPDS e Pós em Engenharia de Software no UniCeub**
 - 💡 Explorando **arquiteturas escaláveis e boas práticas de desenvolvimento**
 - 🏊 Aplico no código a mesma **disciplina e foco** que tive no esporte de alto rendimento
 
