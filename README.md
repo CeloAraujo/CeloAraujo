@@ -1,116 +1,47 @@
-<!-- Header animado -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E40C9&background=00000000&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1%2C+eu+sou+Marcelo+Araujo+%F0%9F%91%8B;Desenvolvedor+Fullstack;Ex-atleta+da+Sele%C3%A7%C3%A3o+Brasileira+%F0%9F%8F%8A;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
-  </a>
-</div>
+name: Atualizar cards do perfil
 
-<br/>
+on:
+  schedule:
+    - cron: "0 9 * * *" # todo dia, 06:00 em Brasília
+  workflow_dispatch: # permite rodar manualmente na aba Actions
 
-<!-- Badges de contato -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/marcelo-araujo-54b0b9285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:celoparaujo99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/CeloAraujo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+permissions:
+  contents: write
 
-<br/>
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
----
+      - name: Card de estatísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=pt-br
+          path: profile/stats.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
-## 👨‍💻 Sobre mim
+      - name: Card de linguagens
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&locale=pt-br&hide=jupyter%20notebook
+          path: profile/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
-```python
-class MarceloAraujo:
-    nome     = "Marcelo Araujo"
-    cidade   = "Brasília, DF — Brasil"
-    cargo    = "Desenvolvedor Fullstack"
-    educacao = [
-        "Graduado em Análise e desenvolvimento de sistemas - UniCeub",
-        "Pós-graduação em Engenharia de Software - UniCeub",
-        "Pós-graduação em Engenharia de IA — UNIPDS"
-    ]
-    esporte  = "🏊 Ex-atleta da Seleção Brasileira de Natação"
-    conquistas = [
-        "Bicampeão Nacional",
-        "Medalhista Sul-Americano"
-    ]
-    objetivo = "Evoluir como dev fullstack e criar soluções de impacto real"
-```
+      - name: Cobrinha de contribuições
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg?palette=github-light
+            profile/snake-dark.svg?palette=github-dark&color_snake=#7AA2F7
 
----
-
-## 🚀 Tech Stack
-
-### 🎨 Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" />
-</div>
-
-### ⚙️ Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,nodejs" />
-</div>
-
-### 🗄️ Banco de Dados & DevOps
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="48" style="margin-left:6px;vertical-align:middle"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CeloAraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeloAraujo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&hide=jupyter+notebook&cache_seconds=1800" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CeloAraujo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CeloAraujo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 🎯 Atualmente
-
-- 🔭 Trabalhando com **FastAPI · Spring Boot · Angular · React · React Native**
-- 🌱 Aprofundando conhecimentos em **Inteligência Artificial e Engenharia de Software**
-- 🎓 Cursando **Pós-graduação em IA pela UNIPDS e Pós em Engenharia de Software no UniCeub**
-- 💡 Explorando **arquiteturas escaláveis e boas práticas de desenvolvimento**
-- 🏊 Aplico no código a mesma **disciplina e foco** que tive no esporte de alto rendimento
-
----
-
-## 🎵 Ouvindo no Spotify
-
-<div align="center">
-  <a href="https://open.spotify.com/user/celo__araujo">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=celo__araujo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CeloAraujo&label=Visualizações+do+perfil&color=6E40C9&style=flat" alt="Profile views" />
-  
-  <br/><br/>
-  
-  <i>⚡ "Consistência é o que transforma o esforço médio em resultado extraordinário."</i>
-</div>
+      - name: Salvar cards no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: atualiza cards do perfil" || exit 0
+          git push
